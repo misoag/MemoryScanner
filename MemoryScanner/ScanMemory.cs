@@ -376,8 +376,7 @@ namespace Aecial.MemoryScanner
         }
 
         //TODO: USE readarray function because
-        //Reading one by one is a sack of shit
-        //Quasi purpose defeating. Well shit.
+        //Reading one by one is perhaps too inefficient
 
         private unsafe void MemoryRescanner()
         {

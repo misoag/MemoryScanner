@@ -10,7 +10,6 @@ using System.Drawing;
 using System.Windows.Forms;
 using Aecial.MemoryScanner;
 using Aecial.Conversions;
-using Aecial.Dissembler;
 using System.Runtime.InteropServices;
 
 using System.Globalization;
@@ -133,31 +132,7 @@ namespace AecialEngine
 
         private void UpdateAssemblyViewer()
         {
-            UnmanagedBuffer buffer = new UnmanagedBuffer(ReadValues);
-
-            var disasm = new Disasm();
-            disasm.EIP = new IntPtr(buffer.Ptr.ToInt64() + 0x400);
-            //disasm.EIP = new IntPtr((uint)StartAddress);//buffer.Ptr.ToInt64() + 0x400);
-            //disasm.SecurityBlock = (uint)StartAddress;
-          
-            for (int counter = 0; counter < 100; counter++)
-            {
-                  //disasm.Instruction.Opcode = ReadValues[counter];
-                    int ByteCount = Dissembler.Disasm(disasm);
-
-                if (ByteCount == (int)Aecial.Dissembler.Constants.SpecialInfo.UNKNOWN_OPCODE)
-                    AssemblyListView.Items.Add("??");
-                else
-                {
-                    string[] SubItems = new string[3];
-                    //SubItems[0] = "1";// ByteCount.ToString();
-                    SubItems[0] = Conversions.ToHex(ReadValues[counter].ToString());
-                    SubItems[1] = disasm.CompleteInstr;
-                    SubItems[2] = "";
-                    AssemblyListView.Items.Add(disasm.EIP.ToString("X")).SubItems.AddRange(SubItems);
-                    disasm.EIP = new IntPtr(disasm.EIP.ToInt64() + ByteCount);
-                }
-            }
+           
         }
 
 

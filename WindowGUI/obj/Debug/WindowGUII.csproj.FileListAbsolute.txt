@@ -1,5 +1,0 @@
-C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowGUI\bin\Debug\WindowGUI.dll
-C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowGUI\bin\Debug\WindowGUI.pdb
-C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowGUI\obj\Debug\ResolveAssemblyReference.cache
-C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowGUI\obj\Debug\WindowGUI.dll
-C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowGUI\obj\Debug\WindowGUI.pdb

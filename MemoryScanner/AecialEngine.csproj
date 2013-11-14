@@ -139,17 +139,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dissembler\Dissembler.cs" />
     <Compile Include="Memory Viewer\GrabMouse.cs">
       <SubType>Component</SubType>
     </Compile>
     <Compile Include="Memory Viewer\GrabMouse.Designer.cs">
       <DependentUpon>GrabMouse.cs</DependentUpon>
     </Compile>
-    <Compile Include="OpcodeList.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <Compile Include="Opcode.cs" />
     <Compile Include="CheckSyntax.cs" />
     <Compile Include="TableEntry.cs" />
     <Compile Include="Tools\DLLInjector.cs">
