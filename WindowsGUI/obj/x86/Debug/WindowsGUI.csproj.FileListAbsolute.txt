@@ -1,0 +1,8 @@
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\bin\Debug\WindowsGUI.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\bin\Debug\WindowsGUI.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\WindowsGUI.Properties.Resources.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\WindowsGUI.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\WindowsGUI\obj\x86\Debug\WindowsGUI.pdb

@@ -1,0 +1,126 @@
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeValues.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeWindow.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.WholeMemoryScan.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csproj.GenerateResource.Cache
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeValues.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.WholeMemoryScan.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csproj.GenerateResource.Cache
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeValues.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.WholeMemoryScan.resources
+C:\Documents and Settings\Zachary\My Documents\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.csproj.GenerateResource.Cache
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeValues.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.FreezeWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.WholeMemoryScan.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\Copy of MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryPages.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryViewer.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddressWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.TypeWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ValueWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.DescriptionWindow.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.GUIEditor.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.CPUInfo.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AecialShark.resources
+C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AecialShark.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.PacketEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.DescriptionWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddressWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryViewer.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryPages.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.TypeWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ValueWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.CPUInfo.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.GUIEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe.config
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.exe
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\MemoryScanner.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Hexbox.HexBox.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.PacketEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.DescriptionWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddressWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.AddSpecificWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryViewer.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryPages.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ProcessWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Properties.Resources.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.TypeWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.ValueWindow.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.CPUInfo.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.GUIEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.HexEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.MemoryEditor.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\Memory Viewer\GrabMouse.cs
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\Memory Viewer\GrabMouse.Designer.cs
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\obj\Debug\MemoryScanner.Tools.Macro.resources
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\InputHook.dll
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\InputHook.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\WindowGUI.dll
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner\bin\Debug\WindowGUI.pdb

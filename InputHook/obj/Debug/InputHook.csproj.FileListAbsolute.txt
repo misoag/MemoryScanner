@@ -1,0 +1,5 @@
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\InputHook\bin\Debug\InputHook.dll
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\InputHook\bin\Debug\InputHook.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\InputHook\obj\Debug\InputHook.dll
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\InputHook\obj\Debug\InputHook.pdb
+C:\Users\Zachary\Documents\Visual Studio 2010\Projects\MemoryScanner\InputHook\obj\Debug\InputHook.csprojResolveAssemblyReference.cache

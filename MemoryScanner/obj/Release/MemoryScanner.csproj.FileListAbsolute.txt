@@ -1,0 +1,11 @@
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Release\MemoryScanner.exe
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\bin\Release\MemoryScanner.pdb
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.FreezeValues.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.FreezeWindow.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.ProcessWindow.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.Properties.Resources.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.WholeMemoryScan.resources
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.csproj.GenerateResource.Cache
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.exe
+C:\Documents and Settings\mikec\My Documents\Visual Studio 2008\Projects\MemoryScanner\MemoryScanner\obj\Release\MemoryScanner.pdb

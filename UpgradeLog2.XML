@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MemoryScanner">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Zachary\My Documents\Visual Studio 2010\Projects\MemoryScanner\MemoryScanner.sln">
+</Property><Property Name="Date" Value="Friday, May 13, 2011">
+</Property><Property Name="Time" Value="20:55 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="MemoryScanner" Source="MemoryScanner\MemoryScanner.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="MemoryScanner" Source="MemoryScanner\MemoryScanner.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MemoryScanner.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="MemoryScanner.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="MemoryScanner" Source="MemoryScanner\MemoryScanner.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
